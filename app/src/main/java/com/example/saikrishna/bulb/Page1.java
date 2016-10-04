@@ -26,11 +26,9 @@ public class Page1 extends Fragment {
         Page1 fragment = new Page1();
         return fragment;
     }
-
     public Page1(){
-
     }
-public Pubnub pubnub = new Pubnub(PubnubKeys.PUBLISH_KEY, PubnubKeys.SUBSCRIBE_KEY);
+    public Pubnub pubnub = new Pubnub(PubnubKeys.PUBLISH_KEY, PubnubKeys.SUBSCRIBE_KEY);
     public View onCreateView(LayoutInflater inflater, final ViewGroup container,
                              Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.page1, container, false);

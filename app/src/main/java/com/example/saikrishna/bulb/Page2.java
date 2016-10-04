@@ -31,7 +31,6 @@ public class Page2 extends Fragment {
         Page2 fragment = new Page2();
         return fragment;
     }
-
     public Callback callback = new Callback() {
         public void successCallback(String channel, Object response) {
             System.out.println(response.toString());
@@ -40,10 +39,8 @@ public class Page2 extends Fragment {
             System.out.println(error.toString());
         }
     };
-
     public Page2(){
     }
-
     String number;
     Switch all1;
     View rootView;
