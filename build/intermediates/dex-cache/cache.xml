@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/bhargavaganti/Projects/Bulb-0/Bulb/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/bhargavaganti/Projects/Bulb-0/Bulb/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_5b13d499d720ddaee8dfc52c54834d77d9455574/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhargavaganti/Projects/Bulb-0/Bulb/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/bhargavaganti/Projects/Bulb-0/Bulb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_f78e44ca6c11a361964d27fb72c2b32396c1f304/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhargavaganti/Projects/Bulb-0/Bulb/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/bhargavaganti/Projects/Bulb-0/Bulb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_ab633ec51f64bb8d5ed76b6e41b798dd9b90ad3a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhargavaganti/Projects/Bulb-0/Bulb/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/bhargavaganti/Projects/Bulb-0/Bulb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_65f4f1c42f3950edf42f4c0f50359de2fde84aa4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhargavaganti/Projects/Bulb-0/Bulb/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="49bbe8408d1483f4fde8c08b905af0c6e0622b80">
+        <dex dex="/Users/bhargavaganti/Projects/Bulb-0/Bulb/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_088acf5cb50fc193fdada551028b02767920633c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhargavaganti/Projects/Bulb-0/Bulb/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="adcb9743ffbfbb7d3c4b922a513ae3cb74f4940b">
+        <dex dex="/Users/bhargavaganti/Projects/Bulb-0/Bulb/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d482ce432daadd2222569f6cc0fdf4943a010edb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhargavaganti/Projects/Bulb-0/Bulb/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/bhargavaganti/Projects/Bulb-0/Bulb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_5758ecf396a657dc7895b0331657be34ec9386bb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhargavaganti/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/bhargavaganti/Projects/Bulb-0/Bulb/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_ab4e76e67dd5a10f50e931abe67c261616abd63b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhargavaganti/Projects/Bulb-0/Bulb/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/bhargavaganti/Projects/Bulb-0/Bulb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_f3968e23b019d94c29e13b2d8549eaf03a647fc2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhargavaganti/Projects/Bulb-0/Bulb/app/build/intermediates/exploded-aar/com.pacioianu.david/ink-page-indicator/1.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b938134e19d4c5238bbe7b3d64d68e2f3a5638c9">
+        <dex dex="/Users/bhargavaganti/Projects/Bulb-0/Bulb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.pacioianu.david-ink-page-indicator-1.2.0_c5967435dc7a52e1c20e64d283e46157da6c0a63/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhargavaganti/Projects/Bulb-0/Bulb/app/libs/pubnub-4.0.12-all.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7df99b173af3d0be81c202b1436761e5afe16008">
+        <dex dex="/Users/bhargavaganti/Projects/Bulb-0/Bulb/app/build/intermediates/transforms/dex/debug/folders/1000/2/pubnub-4.0.12-all_44e982cbe91eaebdadaae78d4d46083e7d27b7c1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhargavaganti/.gradle/caches/modules-2/files-2.1/com.pubnub/pubnub-android/3.7.10/5ea337b9dcdd6c62a2c45471de5fc6da1af63254/pubnub-android-3.7.10.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5ea337b9dcdd6c62a2c45471de5fc6da1af63254">
+        <dex dex="/Users/bhargavaganti/Projects/Bulb-0/Bulb/app/build/intermediates/transforms/dex/debug/folders/1000/10/pubnub-android-3.7.10_2c19948dea4200824c56e33d66b51f5bf302e59a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhargavaganti/Projects/Bulb-0/Bulb/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/bhargavaganti/Projects/Bulb-0/Bulb/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_9703ea8373849d7cca7cc73accbe7a41b52876af/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhargavaganti/Projects/Bulb-0/Bulb/app/libs/pubnub-android-3.7.5.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d2fca42bd2a37f584bcabeaecdc82fa4c458dd4e">
+        <dex dex="/Users/bhargavaganti/Projects/Bulb-0/Bulb/app/build/intermediates/transforms/dex/debug/folders/1000/2/pubnub-android-3.7.5_b91d55a831aded553d3421fe0deaa3dc21abeabe/classes.dex" />
+    </item>
+
+</items>
