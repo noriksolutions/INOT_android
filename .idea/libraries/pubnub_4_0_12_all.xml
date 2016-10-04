@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pubnub-4.0.12-all">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/pubnub-4.0.12-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
